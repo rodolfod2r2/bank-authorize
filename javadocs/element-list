@@ -1,0 +1,9 @@
+org.framework.rodolfo.freire.git.bank.authorize
+org.framework.rodolfo.freire.git.bank.authorize.configuration
+org.framework.rodolfo.freire.git.bank.authorize.controller
+org.framework.rodolfo.freire.git.bank.authorize.integrate
+org.framework.rodolfo.freire.git.bank.authorize.model
+org.framework.rodolfo.freire.git.bank.authorize.repository
+org.framework.rodolfo.freire.git.bank.authorize.response
+org.framework.rodolfo.freire.git.bank.authorize.service
+org.framework.rodolfo.freire.git.bank.authorize.unit
