@@ -32,11 +32,11 @@ O projeto é dividido em várias entidades e serviços:
   - `TransactionController`: Exponha endpoints REST para gerenciar transações.
 
 ## Diagrama
-![info](assets\authorize.png)
+![info](https://github.com/rodolfod2r2/bank-authorize/blob/master/assets/authorize.png)
 
 ## Endpoints REST - SWAGGER
 
-![info](assets\swagger.png)
+![info](https://github.com/rodolfod2r2/bank-authorize/blob/master/assets/swagger.png)
 
 ## Requisitos
 
@@ -67,7 +67,7 @@ O projeto é dividido em várias entidades e serviços:
 4. A aplicação estará disponível em `http://localhost:8080`.
 
 ### JAVA DOCS
-![info](assets\javadocs.png)
+![info](https://github.com/rodolfod2r2/bank-authorize/blob/master/assets/javadocs.png)
 
 
 ## Contribuindo
